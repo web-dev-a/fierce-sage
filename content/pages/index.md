@@ -294,7 +294,7 @@ sections:
         content_align: center
         image_width: twenty-five
         image_has_padding: false
-      - image: /images/klofver-logo.png
+      - image: /images/spectacular-hickory.png
         image_alt: Netlify logo
         image_align: center
         content_align: center
