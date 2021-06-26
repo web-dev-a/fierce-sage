@@ -150,7 +150,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: Расходные детали
+    title: del
     subtitle: Previous event attendees
     grid_items:
       - content: >-
