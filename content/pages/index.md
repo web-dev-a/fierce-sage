@@ -320,7 +320,7 @@ sections:
         image_align: center
       - image_alt: Sticker Mule logo
         image_align: center
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
     padding_top: large
