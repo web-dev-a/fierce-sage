@@ -200,6 +200,8 @@ sections:
       - title: Address
         content: |
           Ленинградский проспект 47/2
+
+          \<br/>
           Москва 125167
           [1-234-556-7890](tel:+12345567890)
           <email@example.com>
