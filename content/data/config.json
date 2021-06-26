@@ -22,11 +22,6 @@
                 "label": "Sponsorship",
                 "url": "/sponsorship",
                 "style": "link"
-            },
-            {
-                "label": "Tickets",
-                "url": "/thank-you",
-                "style": "primary"
             }
         ]
     },
