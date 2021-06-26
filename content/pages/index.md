@@ -290,6 +290,7 @@ sections:
         image_align: center
         title: ts
         subtitle: st
+        title_align: center
       - image: images/netlify.svg
         image_alt: Netlify logo
         image_align: center
