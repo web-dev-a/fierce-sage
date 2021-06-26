@@ -30,7 +30,8 @@ sections:
         image_width: twenty-five
       - title: Шиповальные пистолеты
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: |
+          Пневматические пистолеты для ошиповки новых шин и дошиповки б/у шин
         content_align: left
         image: /images/gun.svg
         image_alt: Section item 2 icon
