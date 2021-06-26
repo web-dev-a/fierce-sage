@@ -300,7 +300,7 @@ sections:
         content_align: center
         content: |
           ### FAS 300
-      - image: /images/oku-logo.png
+      - image: /images/github.svg
         image_alt: GitHub logo
         image_align: center
         content_align: center
