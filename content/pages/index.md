@@ -197,7 +197,7 @@ sections:
     background_image_opacity: 15
   - type: grid_section
     grid_items:
-      - title: Адрес
+      - title: Контактная информация
         content: |
           Ленинградский проспект 47/2
 
