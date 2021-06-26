@@ -297,7 +297,7 @@ sections:
         image_align: center
         content_align: center
         content: |
-          ### A-TEC 101/100/110
+          ### FAS 300
       - image: images/github.svg
         image_alt: GitHub logo
         image_align: center
