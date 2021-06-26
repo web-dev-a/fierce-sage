@@ -290,7 +290,7 @@ sections:
         image_align: center
         title_align: center
         content: |
-          ### ### A-TEC 101/100/110&#xA;
+          ### A-TEC 101/100/110&#xA;
         content_align: center
       - image: images/netlify.svg
         image_alt: Netlify logo
