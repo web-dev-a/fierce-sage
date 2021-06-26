@@ -257,10 +257,8 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Been super impressed with developer talks of the Event Conf. Great
-          conference realy enjoy it!
-
+      - content: |
+          ### А-ТЕС 100&#xA;А-ТЕС 100
 
           **Miles Tone,** *CEO, Studio*
         image: images/miles-tone.jpg
