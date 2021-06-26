@@ -303,7 +303,7 @@ sections:
         image_align: center
         content_align: center
         content: |
-          EP 8, EPK 8
+          ### EP 8, EPK 8
       - image_alt: Sticker Mule logo
         image_align: center
     grid_cols: three
