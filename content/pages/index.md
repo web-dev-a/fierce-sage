@@ -296,6 +296,8 @@ sections:
         image_alt: Netlify logo
         image_align: center
         content_align: center
+        content: |
+          ### A-TEC 101/100/110
       - image: images/github.svg
         image_alt: GitHub logo
         image_align: center
