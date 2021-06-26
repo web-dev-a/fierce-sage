@@ -282,7 +282,6 @@ sections:
     background_color: none
   - type: grid_section
     title: Расходные детали
-    subtitle: We Are Supported by Awesome Companies
     align: center
     grid_items:
       - image: /images/great-paprika.png
