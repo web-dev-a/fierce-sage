@@ -288,7 +288,6 @@ sections:
       - image: images/stackbit.svg
         image_alt: Stackbit logo
         image_align: center
-        title: ts
         title_align: center
         content: |
           ### EP-8, EPK-8
