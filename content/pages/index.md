@@ -302,7 +302,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    enable_cards: true
+    enable_cards: false
   - type: grid_section
     title: Frequently Asked Questions
     subtitle: Our vision
