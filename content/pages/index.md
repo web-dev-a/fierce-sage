@@ -301,6 +301,7 @@ sections:
       - image: images/github.svg
         image_alt: GitHub logo
         image_align: center
+        content_align: center
       - image_alt: Sticker Mule logo
         image_align: center
     grid_cols: three
