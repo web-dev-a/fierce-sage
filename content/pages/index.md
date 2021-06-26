@@ -201,16 +201,13 @@ sections:
         content: |
           Ленинградский проспект 47/2
 
-
           Москва 125167
-
 
           [1-234-556-7890](tel:+12345567890)
 
-
           <email@example.com>
 
-          **Время работы:** 9:30 - 17:00 PM
+          **Время работы:** 9:30 - 17:00
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
