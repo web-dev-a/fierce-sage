@@ -281,7 +281,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Our Sponsors
+    title: Расходные детали
     subtitle: We Are Supported by Awesome Companies
     align: center
     grid_items:
