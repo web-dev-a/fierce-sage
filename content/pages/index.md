@@ -98,7 +98,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: features_section
-    title: Watch Favorite Talks From Past Events
+    title: Пневматические шиповальные пистолеты
     features:
       - title: Fast tracks Iconic Nike campaign with the JAMstack
         content: >-
