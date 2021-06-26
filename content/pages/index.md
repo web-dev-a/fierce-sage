@@ -24,7 +24,7 @@ sections:
           Attend a two-track and two days conference on all things Jamstack,
           gathering international.
         content_align: left
-        image: images/2-days.svg
+        image: /images/tire.svg
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
