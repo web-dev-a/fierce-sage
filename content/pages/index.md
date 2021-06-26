@@ -39,7 +39,9 @@ sections:
         image_width: twenty-five
       - title: Расходные детали
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: >
+          Детали для автоматических и полу-автоматических станков, шиповальных
+          пистолетов, ремонтные шипы
         content_align: left
         image: /images/puzzle.svg
         image_alt: Section item 3 icon
