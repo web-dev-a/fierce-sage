@@ -289,6 +289,7 @@ sections:
         image_alt: Stackbit logo
         image_align: center
         title: ts
+        subtitle: st
       - image: images/netlify.svg
         image_alt: Netlify logo
         image_align: center
