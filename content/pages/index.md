@@ -32,7 +32,7 @@ sections:
         title_align: left
         content: Two tracks conference for curious developers.
         content_align: left
-        image: images/2-tracks.svg
+        image: /images/gun.svg
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
