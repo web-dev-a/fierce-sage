@@ -285,7 +285,7 @@ sections:
     subtitle: We Are Supported by Awesome Companies
     align: center
     grid_items:
-      - image: images/stackbit.svg
+      - image: /images/a-tekniikka-logo.png
         image_alt: Stackbit logo
         image_align: center
         title_align: center
