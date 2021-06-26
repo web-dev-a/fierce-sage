@@ -295,6 +295,7 @@ sections:
           ### EP-8
 
           ### EPK-8
+        content_align: center
       - image: images/netlify.svg
         image_alt: Netlify logo
         image_align: center
