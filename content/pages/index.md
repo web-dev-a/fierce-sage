@@ -207,11 +207,8 @@ sections:
 
           **Время работы:** 9:30 - 17:00
       - title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
+        content: |
+          <email@example.com>
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
