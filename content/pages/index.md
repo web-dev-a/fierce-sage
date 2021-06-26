@@ -194,7 +194,7 @@ sections:
         image: images/avatar_7.jpg
         image_alt: Speaker 7 photo
         image_position: top
-      - title: A-TEC 101
+      - title: А-ТЕС 100А-ТЕС 100
         subtitle: 'ReactEvent, Israel'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
