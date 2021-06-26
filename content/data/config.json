@@ -34,17 +34,7 @@
         "has_primary_nav": false,
         "has_secondary_nav": false,
         "has_social": true,
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "announcement": {
