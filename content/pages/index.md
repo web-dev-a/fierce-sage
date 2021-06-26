@@ -292,9 +292,7 @@ sections:
         subtitle: st
         title_align: center
         content: |
-          ### EP-8
-
-          ### EPK-8
+          ### EP-8, EPK-8
         content_align: center
       - image: images/netlify.svg
         image_alt: Netlify logo
