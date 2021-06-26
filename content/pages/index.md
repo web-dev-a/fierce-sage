@@ -206,8 +206,7 @@ sections:
 
 
           **Время работы:** 9:30 - 17:00
-      - title: Follow Us
-        content: |
+      - content: |
           [](mailto:email@example.com)8 999 888 77 66
 
           info@mail.com
