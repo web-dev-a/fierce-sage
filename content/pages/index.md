@@ -298,7 +298,7 @@ sections:
         content_align: center
         content: |
           ### FAS 300
-      - image: images/github.svg
+      - image: /images/oku-logo.png
         image_alt: GitHub logo
         image_align: center
         content_align: center
