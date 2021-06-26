@@ -72,7 +72,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
           ipsum sed sodales. Integer finibus scelerisque leo et semper.
-        image: images/feature-1.jpg
+        image: /images/oshipovka-shin.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
