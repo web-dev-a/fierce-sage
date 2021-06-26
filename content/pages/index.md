@@ -41,7 +41,7 @@ sections:
         title_align: left
         content: >
           Детали для автоматических и полу-автоматических станков, шиповальных
-          пистолетов, ремонтные шипы
+          пистолетов
         content_align: left
         image: /images/puzzle.svg
         image_alt: Section item 3 icon
