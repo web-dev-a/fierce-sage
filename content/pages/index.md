@@ -295,6 +295,7 @@ sections:
       - image: images/netlify.svg
         image_alt: Netlify logo
         image_align: center
+        content_align: center
       - image: images/github.svg
         image_alt: GitHub logo
         image_align: center
