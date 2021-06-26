@@ -288,21 +288,6 @@ sections:
       - image: images/stackbit.svg
         image_alt: Stackbit logo
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: |
-          test
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - image: images/netlify.svg
         image_alt: Netlify logo
         image_align: center
