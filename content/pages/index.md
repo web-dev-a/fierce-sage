@@ -219,6 +219,7 @@ sections:
     padding_bottom: medium
     background_color: none
     background_image: /images/faq-background.svg
+    background_image_opacity: 15
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
