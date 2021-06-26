@@ -209,9 +209,7 @@ sections:
 
           **Время работы:** 9:30 - 17:00
       - content: |
-          [](mailto:email@example.com)8 999 888 77 66
-
-          info@mail.com
+          logo
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
