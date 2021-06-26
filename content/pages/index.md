@@ -292,7 +292,7 @@ sections:
         content: |
           ### A-TEC 101/100/110&#xA;
         content_align: center
-        image_width: sixty
+        image_width: twenty-five
       - image: /images/klofver-logo.png
         image_alt: Netlify logo
         image_align: center
