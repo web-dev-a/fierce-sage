@@ -217,7 +217,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: primary
+    background_color: secondary
     background_image: /images/faq-background.svg
     background_image_opacity: 15
 seo:
