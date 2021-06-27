@@ -67,10 +67,9 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+      - content: >
+          С 2002 года оказываем профессиональные услуги по ошиповке зимних шин
+          на промышленом оборудовании.
         image: /images/oshipovka-shin.png
         image_alt: Feature 1 placeholder image
         media_position: right
