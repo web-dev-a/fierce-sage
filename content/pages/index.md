@@ -44,7 +44,7 @@ sections:
           Детали для автоматических и полу-автоматических станков, шиповальных
           пистолетов
         content_align: left
-        image: /images/cool-turtle.png
+        image: /images/spare-parts.png
         image_alt: Section item 3 icon
         image_position: left
         image_width: twenty-five
