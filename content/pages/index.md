@@ -171,6 +171,7 @@ sections:
     background_color: secondary
     background_image: /images/faq-background.svg
     background_image_opacity: 15
+    section_id: contacts
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
