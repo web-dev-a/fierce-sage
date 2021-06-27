@@ -83,7 +83,7 @@ sections:
     title: Зашипуем ваши шины!
     actions:
       - label: Получить предложение
-        url: /thank-you
+        url: /
         style: primary
         has_icon: true
         icon: arrow-right
