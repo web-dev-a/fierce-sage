@@ -28,6 +28,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
+        image_align: center
       - title: Шиповальные пистолеты
         title_align: left
         content: |
