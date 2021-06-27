@@ -130,7 +130,7 @@ sections:
         content_align: center
         content: |
           ### FAS 300
-      - image: /images/melodic-amaranth.png
+      - image: /images/oku.png
         image_alt: GitHub logo
         image_align: center
         content_align: center
