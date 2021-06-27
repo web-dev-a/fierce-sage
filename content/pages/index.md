@@ -98,10 +98,9 @@ sections:
   - type: features_section
     title: Пневматические шиповальные пистолеты
     features:
-      - content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
+      - content: >
+          Ручные пневматические пистолеты для ошиповки новых зимних шин и для
+          дошиповки б/у шин ремонтными шипами.
         media_position: right
         media_width: sixty
         image: /images/studding-equipment.png
