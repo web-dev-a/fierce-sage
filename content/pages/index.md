@@ -115,7 +115,7 @@ sections:
     title: Расходные детали
     align: center
     grid_items:
-      - image: /images/great-paprika.png
+      - image: /images/a-tekniikka.png
         image_alt: Stackbit logo
         image_align: center
         title_align: center
