@@ -110,6 +110,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    section_id: studding-equipment
   - type: grid_section
     title: Расходные детали
     align: center
