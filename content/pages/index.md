@@ -145,6 +145,7 @@ sections:
     padding_bottom: large
     background_color: none
     enable_cards: false
+    section_id: spare-parts
   - type: grid_section
     grid_items:
       - title: Контактная информация
