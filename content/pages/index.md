@@ -7,7 +7,7 @@ sections:
       #
     actions:
       - label: Свяжитесь с нами
-        url: /about
+        url: '/#contacts'
         style: primary
     align: center
     padding_top: large
