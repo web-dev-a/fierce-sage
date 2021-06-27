@@ -104,7 +104,7 @@ sections:
           it on the web within a month.
         media_position: right
         media_width: sixty
-        image: /images/feature-1.jpg
+        image: /images/studding-equipment.png
     feature_padding_vert: large
     align: center
     padding_top: large
