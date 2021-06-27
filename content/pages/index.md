@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Ошиповка. Инструмнет. Детали.
-    subtitle: Conference for Creative People
     content: |
       ****
     actions:
