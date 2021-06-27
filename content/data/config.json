@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "Ошиповка шин",
-                "url": "/studding",
+                "url": "/#studding",
                 "style": "link"
             },
             {
