@@ -34,7 +34,7 @@ sections:
         content: |
           Пневматические пистолеты для ошиповки новых шин и дошиповки б/у шин
         content_align: left
-        image: /images/gun.svg
+        image: /images/studding-gun.png
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
