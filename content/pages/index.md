@@ -57,9 +57,8 @@ sections:
   - type: features_section
     title: Профессиональная ошиповка шин
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: |
+          Опыт работы на промышленном оборудовании с 2002 года
         align: center
     feature_padding_vert: medium
     align: center
