@@ -14,7 +14,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: /images/background.png
-    background_image_opacity: 50
+    background_image_opacity: 5
     background_image_size: cover
   - type: grid_section
     grid_items:
