@@ -43,7 +43,7 @@ sections:
           Детали для автоматических и полу-автоматических станков, шиповальных
           пистолетов
         content_align: left
-        image: /images/puzzle.svg
+        image: /images/cool-turtle.png
         image_alt: Section item 3 icon
         image_position: left
         image_width: twenty-five
