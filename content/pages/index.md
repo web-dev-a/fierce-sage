@@ -59,8 +59,9 @@ sections:
   - type: features_section
     title: Профессиональная ошиповка шин
     features:
-      - content: |
-          Опыт работы на промышленном оборудовании с 2002 года
+      - content: >
+          Профессиональные услуги по ошиповке зимних шин на промышленом
+          оборудовании с 2002 года
         align: center
     feature_padding_vert: medium
     align: center
