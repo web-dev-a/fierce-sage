@@ -24,7 +24,7 @@ sections:
           Услуги по ошиповке зимних шин на автоматических и полу-автоматических
           станках
         content_align: left
-        image: /images/tire.svg
+        image: /images/tire.png
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
