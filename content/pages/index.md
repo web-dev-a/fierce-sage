@@ -185,7 +185,9 @@ seo:
       value: Stackbit Event Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >-
+        Профессиональная ошиповка шин. Пневматические пистолеты для ошиповки и
+        дошиповки. Расходные детали
       keyName: property
     - name: 'og:image'
       value: images/feature-3.jpg
