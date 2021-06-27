@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Ошиповка. Инструмнет. Детали.
     content: |
-      ****
+      ***
     actions:
       - label: Свяжитесь с нами
         url: /about
