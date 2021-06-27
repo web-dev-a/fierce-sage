@@ -198,7 +198,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Event Theme
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: >-
+        Профессиональная ошиповка шин. Пневматические пистолеты для ошиповки и
+        дошиповки. Расходные детали
     - name: 'twitter:image'
       value: images/feature-3.jpg
       relativeUrl: true
