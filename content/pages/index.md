@@ -84,7 +84,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: ашипуем ваши шины!
+    title: Зашипуем ваши шины!
     actions:
       - label: Получить предложение
         url: /thank-you
