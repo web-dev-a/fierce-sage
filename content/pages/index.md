@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Inspire. Create. Build.
+    title: Ошиповка. Инструмнет. Детали.
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
