@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ошиповка. Инструмнет. Детали.
+    title: Ошиповка. Оборудование. Детали.
     content: |
       #
     actions:
