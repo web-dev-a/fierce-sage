@@ -98,8 +98,7 @@ sections:
   - type: features_section
     title: Пневматические шиповальные пистолеты
     features:
-      - title: Fast tracks Iconic Nike campaign with the JAMstack
-        content: >-
+      - content: >-
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
           Crazy’ campaign and approached digital agency Matter Supply to launch
           it on the web within a month.
