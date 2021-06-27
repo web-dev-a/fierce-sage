@@ -67,8 +67,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Hands-On Workshops
-        content: >-
+      - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
           ipsum sed sodales. Integer finibus scelerisque leo et semper.
