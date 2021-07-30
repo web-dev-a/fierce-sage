@@ -173,7 +173,7 @@ sections:
     background_image_opacity: 15
     section_id: contacts
 seo:
-  title: 'Studding.ru '
+  title: Studding - ошиповка | оборудование | детали
   description: >-
     Профессиональная ошиповка шин. Пневматические пистолеты для ошиповки и
     дошиповки. Расходные детали.
