@@ -160,7 +160,7 @@ sections:
 
           **Время работы:** 9:30 - 17:00
       - content: |
-          ![](/images/groovy-mango.png)
+          ![](/images/studding-logo-large-gray.png)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
