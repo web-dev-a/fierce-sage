@@ -54,5 +54,6 @@
         "social_links": [],
         "content": "Ошиповка © 2021"
     },
-    "domain": "https://studding.ru"
+    "domain": "https://studding.ru",
+    "favicon": "/images/fav.png"
 }
