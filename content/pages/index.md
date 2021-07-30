@@ -160,7 +160,7 @@ sections:
 
           **Время работы:** 9:30 - 17:00
       - content: |
-          logo
+          ![](/images/studding-logo-large.png)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
