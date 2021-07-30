@@ -156,7 +156,7 @@ sections:
 
           8 999 888 77 66
 
-          info@mail.com
+          info@studding.ru
 
           **Время работы:** 9:30 - 17:00
       - content: |
