@@ -196,7 +196,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: Studding - ошиповка | оборудование | детали
     - name: 'twitter:description'
       value: >-
         Профессиональная ошиповка шин. Пневматические пистолеты для ошиповки и
