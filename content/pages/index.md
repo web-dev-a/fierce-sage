@@ -182,7 +182,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: Studding - ошиповка | оборудование | детали
       keyName: property
     - name: 'og:description'
       value: >-
