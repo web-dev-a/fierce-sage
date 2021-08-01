@@ -202,7 +202,7 @@ seo:
         Профессиональная ошиповка шин. Пневматические пистолеты для ошиповки и
         дошиповки. Расходные детали
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: /images/card.png
       relativeUrl: true
 layout: advanced
 ---
