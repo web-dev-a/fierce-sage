@@ -190,7 +190,7 @@ seo:
         дошиповки. Расходные детали
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: /images/card.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
