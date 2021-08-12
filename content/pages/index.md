@@ -125,7 +125,7 @@ sections:
         image_width: twenty-five
         image_has_padding: false
       - image: /images/klofver.png
-        image_alt: Netlify logo
+        image_alt: Klofver logo
         image_align: center
         content_align: center
         content: |
