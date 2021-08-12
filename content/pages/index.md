@@ -116,7 +116,7 @@ sections:
     align: center
     grid_items:
       - image: /images/a-tekniikka.png
-        image_alt: Stackbit logo
+        image_alt: StackbA-it logo
         image_align: center
         title_align: center
         content: |
