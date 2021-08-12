@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Studding
 sections:
   - type: hero_section
     title: Ошиповка. Оборудование. Детали.
