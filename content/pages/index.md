@@ -131,7 +131,7 @@ sections:
         content: |
           ### FAS 300
       - image: /images/oku.png
-        image_alt: GitHub logo
+        image_alt: OKU logo
         image_align: center
         content_align: center
         content: |
