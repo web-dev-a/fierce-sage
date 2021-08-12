@@ -136,8 +136,6 @@ sections:
         content_align: center
         content: |
           ### EP/EPK
-      - image_alt: Sticker Mule logo
-        image_align: center
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
